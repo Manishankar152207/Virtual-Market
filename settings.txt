@@ -1,0 +1,10 @@
+{
+    'USERID': 'RAG304', 
+    'USERPASS': '', 
+    'MY_TOKEN': 'COJBA8VxQZoFmEpMQNYfIJ3sj8SvoVqXyDQZvwo46E2Z0JwgAW1ae4JrZEDc551oObz1R/pdWWiNDDwG6D+J9NEEibey9nHGw//GDC3jQAj/ghrTbrARmQ==', 
+    'MIN_QTY': 50, 
+    'LOSS_POINTS': 0, 
+    'TIME_DIFF': 15, 
+    'STRIKE_PRICE': 0, 
+    'EXPIRY_DATE': '23JAN'
+}
